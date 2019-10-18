@@ -10,7 +10,10 @@
 
      4--joblib  
 
-**m6ABRP is implemented using Python2.7.**  
+**m6ABRP is implemented using Python2.7.**
+## feature_selection.py  
+This script can be used for feature encoding automatically.  
+
 ## model_training.py
 **Usage: python model_training.py training_positive_dataset training_negative_dataset model_file scale_file pca_file**  
 This script is used to train the m6ABRP tool.  
