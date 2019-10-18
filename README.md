@@ -25,7 +25,7 @@ This script is used to train the m6ABRP tool.
      
      3--a pca model file, pca.pkl, which can be used to generate the principal components.  
 ## model_indepedent_testing.py 
-**Usage: python model_indepedent_testing.py test_positive_dataset test_negative_dataset model_file scale_file pca_file**
+**Usage: python model_indepedent_testing.py test_positive_dataset test_negative_dataset model_file scale_file pca_file**  
 This script is used to evaluate the performance of m6ABRP on the indepedent testing dataset.  
 
 **The model_file, scale_file and pca_file generated in the training process must be involved.**    
