@@ -29,7 +29,7 @@ This script is used to train the m6ABRP tool.
 This script is used to evaluate the performance of m6ABRP on the indepedent testing dataset.  
 
 **The model_file, scale_file and pca_file generated in the training process must be involved.**    
-**Outputs**  
+**Outputs:**  
 
      1--m6ABRP_score.txt, which consists of the prediction score of each sample.  
      
